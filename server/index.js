@@ -12,7 +12,7 @@ const app = express();
 // ✅ FIXED CORS
 app.use(
   cors({
-    origin: "https://notely-aa6t.vercel.app/",
+    origin: "https://notelyapplication.vercel.app",
     credentials: true,
   })
 );
