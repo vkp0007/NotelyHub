@@ -1,4 +1,4 @@
-# Notely
+# NotelyHub
 
 A modern, full-stack note-taking application built with React and Node.js. Notely provides a clean, intuitive interface for creating, editing, and managing your notes with real-time autosave functionality.
 
